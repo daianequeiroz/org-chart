@@ -45,7 +45,7 @@ export default function Contacts() {
     <>
       <div className="jumbotron jumbotron-fluid">
         <div className="container">
-          <h1 className="display-4 text-center">Profile Management</h1>
+          <h1 className="display-4 text-center">Contacts Management</h1>
         </div>
       </div>
       <div className="row">
